@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
   m_Name: Pant one
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: 
-  outfit: {fileID: 0}
-  outfitRating: 0
-  outfitType: 0
+  outfitName: Pant
+  outfit: {fileID: -3172568693767934862, guid: cad10a55976d9794db89ab193dac14aa, type: 3}
+  outfitRating: 1
+  outfitType: 1
