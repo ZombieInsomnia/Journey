@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: orange shirt
+  m_Name: Skirt
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: orange shirt
-  outfit: {fileID: 7474301003128034084, guid: 45321e6c0834cba46a0d44edade155ae, type: 3}
+  outfitName: Skirt
+  outfit: {fileID: 7934773341868816568, guid: 97fe5388eb12472418001ee5389bf5c1, type: 3}
   outfitRating: 4
-  outfitType: 0
+  outfitType: 1
