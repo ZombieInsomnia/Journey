@@ -10,8 +10,8 @@ public class Outfitselect : MonoBehaviour
     public Image outfitsprite;
     void Start()
     {
-        outfitbox.SetActive(false); //turns off the image box so character isn't in any starting outfit
-        
+        //outfitbox.SetActive(false); //turns off the image box so character isn't in any starting outfit
+
     }
 
     // Update is called once per frame

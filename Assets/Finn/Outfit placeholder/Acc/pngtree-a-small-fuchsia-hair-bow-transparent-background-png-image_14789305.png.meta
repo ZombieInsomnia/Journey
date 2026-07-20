@@ -1,0 +1,3406 @@
+fileFormatVersion: 2
+guid: 90c7526d084105b47bf2d10598ec96f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4886449828760969934
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_0
+  - first:
+      213: -2917637898766554359
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_1
+  - first:
+      213: -5501214286297544958
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_2
+  - first:
+      213: 7601789759216412678
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_3
+  - first:
+      213: 6303237458214142171
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_4
+  - first:
+      213: 7152033747081485163
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_5
+  - first:
+      213: 1165656647485841259
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_6
+  - first:
+      213: -3652896577447711892
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_7
+  - first:
+      213: 4897387064985238556
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_8
+  - first:
+      213: 4666870279143759265
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_9
+  - first:
+      213: 2281250056317270271
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_10
+  - first:
+      213: -6498169157016955553
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_11
+  - first:
+      213: 996874661812863619
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_12
+  - first:
+      213: 3582863399793568065
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_13
+  - first:
+      213: -5304333784014782964
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_14
+  - first:
+      213: 2585775498868698458
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_15
+  - first:
+      213: -3419572329486765934
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_16
+  - first:
+      213: -8970738824047700365
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_17
+  - first:
+      213: -3683736835739437493
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_18
+  - first:
+      213: -1568565061750056099
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_19
+  - first:
+      213: -1510438121556914230
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_20
+  - first:
+      213: -2608047769917961335
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_21
+  - first:
+      213: 8093694346410942019
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_22
+  - first:
+      213: 6201019745169345953
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_23
+  - first:
+      213: -6656799923597154393
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_24
+  - first:
+      213: 1585112350713918743
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_25
+  - first:
+      213: 4485490520784333095
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_26
+  - first:
+      213: 4311604673637380942
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_27
+  - first:
+      213: 3401392309085367712
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_28
+  - first:
+      213: 8820923506389498685
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_29
+  - first:
+      213: -7733804481282357598
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_30
+  - first:
+      213: -7832395963196170010
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_31
+  - first:
+      213: 8554399989995697709
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_32
+  - first:
+      213: -3288642283312505346
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_33
+  - first:
+      213: -3753086150160536234
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_34
+  - first:
+      213: 5924915980854429747
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_35
+  - first:
+      213: 5914770476818313760
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_36
+  - first:
+      213: 3285318203823303339
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_37
+  - first:
+      213: 2345814384621267825
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_38
+  - first:
+      213: 6284966981848715387
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_39
+  - first:
+      213: -3030386742034750958
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_40
+  - first:
+      213: 4830861309211401956
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_41
+  - first:
+      213: 1901730037555041665
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_42
+  - first:
+      213: 8625157839998834795
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_43
+  - first:
+      213: 2777547015730653015
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_44
+  - first:
+      213: 7443307908581644574
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_45
+  - first:
+      213: 4052308716989381161
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_46
+  - first:
+      213: 156226714687859886
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_47
+  - first:
+      213: 6977418801427864721
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_48
+  - first:
+      213: -1886301265268932906
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_49
+  - first:
+      213: 4407822057621599979
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_50
+  - first:
+      213: 4608471649180768504
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_51
+  - first:
+      213: 1228575750083145231
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_52
+  - first:
+      213: -1406206914427618857
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_53
+  - first:
+      213: 2103868996283074505
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_54
+  - first:
+      213: 4803389826926539894
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_55
+  - first:
+      213: 8450803677048664097
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_56
+  - first:
+      213: -5081141963663818448
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_57
+  - first:
+      213: 5779538241335048757
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_58
+  - first:
+      213: 7663660222515921729
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_59
+  - first:
+      213: 1706366719269028479
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_60
+  - first:
+      213: -1093873570543315844
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_61
+  - first:
+      213: -7739206840638161015
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_62
+  - first:
+      213: -170154033033945108
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_63
+  - first:
+      213: -2567004060121465931
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_64
+  - first:
+      213: -4155551029731623964
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_65
+  - first:
+      213: 6773518395851678475
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_66
+  - first:
+      213: 394854695359437236
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_67
+  - first:
+      213: -1095031739447509878
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_68
+  - first:
+      213: 4863874829690584305
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_69
+  - first:
+      213: -2654805837515785097
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_70
+  - first:
+      213: -5549676554848159609
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_71
+  - first:
+      213: 1687489540905708709
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_72
+  - first:
+      213: -7735319732451944401
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_73
+  - first:
+      213: 3265385990205228796
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_74
+  - first:
+      213: 3032174155064042443
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_75
+  - first:
+      213: 1566796823721351639
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_76
+  - first:
+      213: 2910986733186926838
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_77
+  - first:
+      213: -5804486263370052889
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_78
+  - first:
+      213: -4006072053844462918
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_79
+  - first:
+      213: -1696696237888695615
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_80
+  - first:
+      213: -1749598433527607304
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_81
+  - first:
+      213: -3234525855432889590
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_82
+  - first:
+      213: -4617815568674029775
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_83
+  - first:
+      213: -1294029408127832955
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_84
+  - first:
+      213: -334462265016951762
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_85
+  - first:
+      213: -3846019079917229694
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_86
+  - first:
+      213: -2418310577306231730
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_87
+  - first:
+      213: -8508024635592594807
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_88
+  - first:
+      213: 4659112920225924469
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_89
+  - first:
+      213: 8326520279634164669
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_90
+  - first:
+      213: 6469730592773742891
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_91
+  - first:
+      213: 3425651226770916682
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_92
+  - first:
+      213: 5314041549912159817
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_93
+  - first:
+      213: -3788625260553598497
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_94
+  - first:
+      213: -3173970011396063460
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_95
+  - first:
+      213: 138200359494425392
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_96
+  - first:
+      213: -8934301213559459096
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_97
+  - first:
+      213: -925951378396042072
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_98
+  - first:
+      213: -7290951943771813237
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_99
+  - first:
+      213: -7467624027055459296
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_100
+  - first:
+      213: 3738950653740741164
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_101
+  - first:
+      213: -5960956099655292871
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_102
+  - first:
+      213: 5017256688756857450
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_103
+  - first:
+      213: -6596295499863928139
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_104
+  - first:
+      213: -9086486171635966429
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_105
+  - first:
+      213: 781156280899595644
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_106
+  - first:
+      213: -179236670508560814
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_107
+  - first:
+      213: -5715090693392479747
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_108
+  - first:
+      213: -6981747785007693601
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_109
+  - first:
+      213: -4396644762615027467
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_110
+  - first:
+      213: -3854055102770846267
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_111
+  - first:
+      213: -5846106042063535538
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_112
+  - first:
+      213: -2206728462012946875
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_113
+  - first:
+      213: -1038525431578112625
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_114
+  - first:
+      213: -944189621427685957
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_115
+  - first:
+      213: 8816740515464157441
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_116
+  - first:
+      213: 6214366648744547348
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_117
+  - first:
+      213: -2701896029376116921
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_118
+  - first:
+      213: 3671963036833316394
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_119
+  - first:
+      213: 5519217762781686587
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_120
+  - first:
+      213: -1284996358128157392
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_121
+  - first:
+      213: 5793280863263494934
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_122
+  - first:
+      213: -2011139455397404463
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_123
+  - first:
+      213: -1372195545122383701
+    second: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2e010da3820d340800000000000000
+      internalID: 4886449828760969934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b6dc41ac77287d0800000000000000
+      internalID: -2917637898766554359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2074ee7d0c2c7a3b0800000000000000
+      internalID: -5501214286297544958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608eb4f828bfe7960800000000000000
+      internalID: 7601789759216412678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd04acf7219997750800000000000000
+      internalID: 6303237458214142171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bd564ccc0214360800000000000000
+      internalID: 7152033747081485163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f57738b8e3d2010800000000000000
+      internalID: 1165656647485841259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2dfbaaed4e4dc0800000000000000
+      internalID: -3652896577447711892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cb900969307f340800000000000000
+      internalID: 4897387064985238556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad1131facd04c040800000000000000
+      internalID: 4666870279143759265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff871a2f6d0a8af10800000000000000
+      internalID: 2281250056317270271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55da99949dd1d5a0800000000000000
+      internalID: -6498169157016955553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38281f6293c95dd00800000000000000
+      internalID: 996874661812863619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a17f7743e8b130800000000000000
+      internalID: 3582863399793568065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef1b9e6883366b0800000000000000
+      internalID: -5304333784014782964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d2afebd1582e320800000000000000
+      internalID: 2585775498868698458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290bf21851d3b80d0800000000000000
+      internalID: -3419572329486765934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376d4db8198818380800000000000000
+      internalID: -8970738824047700365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46babb7ddcb0ecc0800000000000000
+      internalID: -3683736835739437493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_19
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b9c4f03665b3ae0800000000000000
+      internalID: -1568565061750056099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4465f788d90be0800000000000000
+      internalID: -1510438121556914230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b4acc0f5a5ecbd0800000000000000
+      internalID: -2608047769917961335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e59663024925070800000000000000
+      internalID: 8093694346410942019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad80049a927e0650800000000000000
+      internalID: 6201019745169345953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7e42d1dbb4e93a0800000000000000
+      internalID: -6656799923597154393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7153361e8437ff510800000000000000
+      internalID: 1585112350713918743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_26
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7296bbe0dd9af3e30800000000000000
+      internalID: 4485490520784333095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43f1185b95e5db30800000000000000
+      internalID: 4311604673637380942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad67c4a84c243f20800000000000000
+      internalID: 3401392309085367712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b3d3d91373a6a70800000000000000
+      internalID: 8820923506389498685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a647dabcc10ca490800000000000000
+      internalID: -7733804481282357598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_31
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e02d798e5dbd4390800000000000000
+      internalID: -7832395963196170010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d267c4eb77557b670800000000000000
+      internalID: 8554399989995697709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_33
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd14dd64456c52d0800000000000000
+      internalID: -3288642283312505346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_34
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d2e38f70c5aebc0800000000000000
+      internalID: -3753086150160536234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_35
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3380dda61b7893250800000000000000
+      internalID: 5924915980854429747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_36
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02239be296c751250800000000000000
+      internalID: 5914770476818313760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa2301008bc79d20800000000000000
+      internalID: 3285318203823303339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b2a5011c10e8020800000000000000
+      internalID: 2345814384621267825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70d62abb20b83750800000000000000
+      internalID: 6284966981848715387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_40
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21227f45057e1f5d0800000000000000
+      internalID: -3030386742034750958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_41
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee59b604caaa0340800000000000000
+      internalID: 4830861309211401956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_42
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859823b46d446a10800000000000000
+      internalID: 1901730037555041665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_43
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b685ec08b57b2b770800000000000000
+      internalID: 8625157839998834795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_44
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75762937b44db8620800000000000000
+      internalID: 2777547015730653015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e195dd44b11fb4760800000000000000
+      internalID: 7443307908581644574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92afe5cde41bc3830800000000000000
+      internalID: 4052308716989381161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_47
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac65698e570b2200800000000000000
+      internalID: 156226714687859886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5d349e65c4d060800000000000000
+      internalID: 6977418801427864721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_49
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de76484ef282d5e0800000000000000
+      internalID: -1886301265268932906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_50
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6baa9cecabb2d30800000000000000
+      internalID: 4407822057621599979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_51
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8d0e65c8494ff30800000000000000
+      internalID: 4608471649180768504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_52
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e6d5ba227cc0110800000000000000
+      internalID: 1228575750083145231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9f7d003462c7ce0800000000000000
+      internalID: -1406206914427618857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7096194b1723d10800000000000000
+      internalID: 2103868996283074505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_55
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6747eaf199119a240800000000000000
+      internalID: 4803389826926539894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_56
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120fc058b29474570800000000000000
+      internalID: 8450803677048664097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_57
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031cc7a1e482c79b0800000000000000
+      internalID: -5081141963663818448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_58
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53abf80c86b053050800000000000000
+      internalID: 5779538241335048757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_59
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1434a5a5e5aca5a60800000000000000
+      internalID: 7663660222515921729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_60
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72449e8d7b3ea710800000000000000
+      internalID: 1706366719269028479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_61
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74d39e78c7c1d0f0800000000000000
+      internalID: -1093873570543315844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f3d7ce160d89490800000000000000
+      internalID: -7739206840638161015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 417
+        width: 2149
+        height: 1568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef59e7fecd73adf0800000000000000
+      internalID: -170154033033945108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_64
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb797b686b206cd0800000000000000
+      internalID: -2567004060121465931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_65
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1485
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb76d20b548456c0800000000000000
+      internalID: -4155551029731623964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_66
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1509
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b032058e71f500e50800000000000000
+      internalID: 6773518395851678475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_67
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1427
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b95bced04eca7500800000000000000
+      internalID: 394854695359437236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cf3784f6aadc0f0800000000000000
+      internalID: -1095031739447509878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1367
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcbbaf3364ff7340800000000000000
+      internalID: 4863874829690584305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1398
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cfc33182c382bd0800000000000000
+      internalID: -2654805837515785097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_71
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78836f9a3969bf2b0800000000000000
+      internalID: -5549676554848159609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac2fd7fbca2b6710800000000000000
+      internalID: 1687489540905708709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_73
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28d123dfaf96a490800000000000000
+      internalID: -7735319732451944401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 884
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf648b0e14bf05d20800000000000000
+      internalID: 3265385990205228796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_75
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 908
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc366b13452741a20800000000000000
+      internalID: 3032174155064042443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_76
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 826
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d91f11f8616eb510800000000000000
+      internalID: 1566796823721351639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f84b71c207e56820800000000000000
+      internalID: 2910986733186926838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_78
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea81383f72527fa0800000000000000
+      internalID: -5804486263370052889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_79
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 797
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab23bfd21b29768c0800000000000000
+      internalID: -4006072053844462918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_80
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c217e8d2cf1478e0800000000000000
+      internalID: -1696696237888695615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffc1069e7d28b7e0800000000000000
+      internalID: -1749598433527607304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_82
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b2b1a2fd7ac13d0800000000000000
+      internalID: -3234525855432889590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_83
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f7aeed4393aefb0800000000000000
+      internalID: -4617815568674029775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ca1affb1faa0ee0800000000000000
+      internalID: -1294029408127832955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_85
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c54ee8750cb5bf0800000000000000
+      internalID: -334462265016951762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_86
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289a82e160230aac0800000000000000
+      internalID: -3846019079917229694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_87
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c971bb75f607ed0800000000000000
+      internalID: -2418310577306231730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_88
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a2b3fdbac6de980800000000000000
+      internalID: -8508024635592594807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_89
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575cf72148e78a040800000000000000
+      internalID: 4659112920225924469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_90
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb3eaa141ebd8370800000000000000
+      internalID: 8326520279634164669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_91
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21a1ce22b919c950800000000000000
+      internalID: 6469730592773742891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_92
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45cf0014ab5a8f20800000000000000
+      internalID: 3425651226770916682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_93
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9463e2872a44fb940800000000000000
+      internalID: 5314041549912159817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_94
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd981a506691c6bc0800000000000000
+      internalID: -3788625260553598497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_95
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fbefe471bc3f3d0800000000000000
+      internalID: -3173970011396063460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_96
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1f77ae7cfae100800000000000000
+      internalID: 138200359494425392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_97
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e27279d16cf20480800000000000000
+      internalID: -8934301213559459096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_98
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acab63902c5623f0800000000000000
+      internalID: -925951378396042072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_99
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a890516d551da90800000000000000
+      internalID: -7290951943771813237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_100
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024ff27338bad5890800000000000000
+      internalID: -7467624027055459296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_101
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c227eec4fcb63e330800000000000000
+      internalID: 3738950653740741164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9382956820e664da0800000000000000
+      internalID: -5960956099655292871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_103
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a1e483060e0a540800000000000000
+      internalID: 5017256688756857450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_104
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b25a1901304574a0800000000000000
+      internalID: -6596295499863928139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_105
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e932b18f056e180800000000000000
+      internalID: -9086486171635966429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_106
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7de51daf7937da00800000000000000
+      internalID: 781156280899595644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e0d93a239338df0800000000000000
+      internalID: -179236670508560814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_108
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df943315b4befa0b0800000000000000
+      internalID: -5715090693392479747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_109
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd00f336169db1f90800000000000000
+      internalID: -6981747785007693601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_110
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8efb002eafbf2c0800000000000000
+      internalID: -4396644762615027467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_111
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ef8ebd45a38ac0800000000000000
+      internalID: -3854055102770846267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_112
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42c98b57857edea0800000000000000
+      internalID: -5846106042063535538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_113
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54669f1d7202061e0800000000000000
+      internalID: -2206728462012946875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_114
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dc3905f9a6691f0800000000000000
+      internalID: -1038525431578112625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_115
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb53136ba8095e2f0800000000000000
+      internalID: -944189621427685957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109190529ca5b5a70800000000000000
+      internalID: 8816740515464157441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_117
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414147aba8ddd3650800000000000000
+      internalID: 6214366648744547348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_118
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7478ff460efe08ad0800000000000000
+      internalID: -2701896029376116921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_119
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e70d65dee65f230800000000000000
+      internalID: 3671963036833316394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_120
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3be0ac2053389c40800000000000000
+      internalID: 5519217762781686587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_121
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03db918de96ca2ee0800000000000000
+      internalID: -1284996358128157392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_122
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61393e2404ed56050800000000000000
+      internalID: 5793280863263494934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_123
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0e34f125ff614e0800000000000000
+      internalID: -2011139455397404463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_124
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba85b920c6bf4fce0800000000000000
+      internalID: -1372195545122383701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_0: 4886449828760969934
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_1: -2917637898766554359
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_10: 2281250056317270271
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_100: -7467624027055459296
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_101: 3738950653740741164
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_102: -5960956099655292871
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_103: 5017256688756857450
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_104: -6596295499863928139
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_105: -9086486171635966429
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_106: 781156280899595644
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_107: -179236670508560814
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_108: -5715090693392479747
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_109: -6981747785007693601
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_11: -6498169157016955553
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_110: -4396644762615027467
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_111: -3854055102770846267
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_112: -5846106042063535538
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_113: -2206728462012946875
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_114: -1038525431578112625
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_115: -944189621427685957
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_116: 8816740515464157441
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_117: 6214366648744547348
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_118: -2701896029376116921
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_119: 3671963036833316394
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_12: 996874661812863619
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_120: 5519217762781686587
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_121: -1284996358128157392
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_122: 5793280863263494934
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_123: -2011139455397404463
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_124: -1372195545122383701
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_13: 3582863399793568065
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_14: -5304333784014782964
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_15: 2585775498868698458
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_16: -3419572329486765934
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_17: -8970738824047700365
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_18: -3683736835739437493
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_19: -1568565061750056099
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_2: -5501214286297544958
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_20: -1510438121556914230
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_21: -2608047769917961335
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_22: 8093694346410942019
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_23: 6201019745169345953
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_24: -6656799923597154393
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_25: 1585112350713918743
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_26: 4485490520784333095
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_27: 4311604673637380942
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_28: 3401392309085367712
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_29: 8820923506389498685
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_3: 7601789759216412678
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_30: -7733804481282357598
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_31: -7832395963196170010
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_32: 8554399989995697709
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_33: -3288642283312505346
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_34: -3753086150160536234
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_35: 5924915980854429747
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_36: 5914770476818313760
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_37: 3285318203823303339
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_38: 2345814384621267825
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_39: 6284966981848715387
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_4: 6303237458214142171
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_40: -3030386742034750958
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_41: 4830861309211401956
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_42: 1901730037555041665
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_43: 8625157839998834795
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_44: 2777547015730653015
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_45: 7443307908581644574
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_46: 4052308716989381161
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_47: 156226714687859886
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_48: 6977418801427864721
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_49: -1886301265268932906
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_5: 7152033747081485163
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_50: 4407822057621599979
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_51: 4608471649180768504
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_52: 1228575750083145231
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_53: -1406206914427618857
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_54: 2103868996283074505
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_55: 4803389826926539894
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_56: 8450803677048664097
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_57: -5081141963663818448
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_58: 5779538241335048757
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_59: 7663660222515921729
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_6: 1165656647485841259
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_60: 1706366719269028479
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_61: -1093873570543315844
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_62: -7739206840638161015
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_63: -170154033033945108
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_64: -2567004060121465931
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_65: -4155551029731623964
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_66: 6773518395851678475
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_67: 394854695359437236
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_68: -1095031739447509878
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_69: 4863874829690584305
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_7: -3652896577447711892
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_70: -2654805837515785097
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_71: -5549676554848159609
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_72: 1687489540905708709
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_73: -7735319732451944401
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_74: 3265385990205228796
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_75: 3032174155064042443
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_76: 1566796823721351639
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_77: 2910986733186926838
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_78: -5804486263370052889
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_79: -4006072053844462918
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_8: 4897387064985238556
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_80: -1696696237888695615
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_81: -1749598433527607304
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_82: -3234525855432889590
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_83: -4617815568674029775
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_84: -1294029408127832955
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_85: -334462265016951762
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_86: -3846019079917229694
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_87: -2418310577306231730
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_88: -8508024635592594807
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_89: 4659112920225924469
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_9: 4666870279143759265
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_90: 8326520279634164669
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_91: 6469730592773742891
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_92: 3425651226770916682
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_93: 5314041549912159817
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_94: -3788625260553598497
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_95: -3173970011396063460
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_96: 138200359494425392
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_97: -8934301213559459096
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_98: -925951378396042072
+      pngtree-a-small-fuchsia-hair-bow-transparent-background-png-image_14789305_99: -7290951943771813237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
