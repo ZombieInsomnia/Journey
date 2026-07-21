@@ -1,4 +1,6 @@
+using Unity.VectorGraphics;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
@@ -12,15 +14,19 @@ public class MenuManager : MonoBehaviour
     public GameObject nextMenu;
     public GameObject doneButton;
 
-
+    public GameObject mainMenuButton;
+    public GameObject tryAgainButton;
 
     public GameObject pantOutfitbox;
     public GameObject shirtOutfitbox;
     public GameObject shoesOutfitbox;
     public GameObject accOutfitbox;
 
+    public GameObject dialogueBox;
+
     public Transform player;
     public GameObject playerSprite;
+    public GameObject Confetti;
 
     bool isDone = false;
     public int menuNumber;
@@ -33,6 +39,10 @@ public class MenuManager : MonoBehaviour
         shoesOutfitbox.SetActive(false);
         accOutfitbox.SetActive(false);
         doneButton.SetActive(false);
+        mainMenuButton.SetActive(false);    
+        tryAgainButton.SetActive(false);
+        Confetti.SetActive(false);
+        dialogueBox.SetActive(false);
         UpdateVisuals();
         
     }
@@ -124,5 +134,19 @@ public class MenuManager : MonoBehaviour
     {
         playerSprite.transform.SetParent(player);
         playerSprite.transform.localPosition = Vector3.zero;
+        mainMenuButton.SetActive(true);
+        tryAgainButton.SetActive(true);
+        Confetti.SetActive(true);
+        dialogueBox.SetActive(false);
+    }
+
+    public void TryAgain()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene("MainMenu");
     }
 }
