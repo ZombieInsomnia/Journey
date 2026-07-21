@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: orange shirt
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: orange shirt
-  outfit: {fileID: 7474301003128034084, guid: 45321e6c0834cba46a0d44edade155ae, type: 3}
+  outfit: {fileID: 3546543555547445688, guid: d4d5936a9afd7b24f8df4f7f92203acb, type: 3}
   outfitRating: 4
   outfitType: 0

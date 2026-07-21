@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Black Shoes
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Black shoes
-  outfit: {fileID: -5277312714820472972, guid: 774aa48565328fa499ae6f0b78bba967, type: 3}
+  outfit: {fileID: -8461923687830504554, guid: d512e9951096421408480009568902fa, type: 3}
   outfitRating: 4
   outfitType: 2

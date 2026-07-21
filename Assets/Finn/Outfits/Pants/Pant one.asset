@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Pant one
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Pant
-  outfit: {fileID: -3172568693767934862, guid: cad10a55976d9794db89ab193dac14aa, type: 3}
+  outfit: {fileID: -5693902186511285166, guid: 8713ea1e26a8d12478dcd5d64f8cc7ad, type: 3}
   outfitRating: 1
   outfitType: 1
