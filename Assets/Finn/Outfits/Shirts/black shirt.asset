@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: black shirt
   outfit: {fileID: 9171124879905365256, guid: c7c9d443bbb04704ea6448df22e00e46, type: 3}
-  outfitRating: 0
+  outfitRating: 1
   outfitType: 0
+  dialogue: {fileID: 0}

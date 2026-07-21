@@ -673,7 +673,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 370969121}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 538165967}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: TryAgain
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &370969121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -794,7 +806,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 435443522}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 538165967}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: MainMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &435443522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1071,6 +1095,7 @@ MonoBehaviour:
   Outfits: {fileID: 11400000, guid: c5f9b904b8296c240b1c7b4f3c7a679c, type: 2}
   outfitbox: {fileID: 959241005}
   outfitsprite: {fileID: 959241007}
+  dialoguebox: {fileID: 1589710007}
 --- !u!1 &538165966
 GameObject:
   m_ObjectHideFlags: 0
@@ -1113,6 +1138,7 @@ MonoBehaviour:
   shirtOutfitbox: {fileID: 959241005}
   shoesOutfitbox: {fileID: 1306450747}
   accOutfitbox: {fileID: 1247951420}
+  dialogueBox: {fileID: 1589710007}
   player: {fileID: 1289804850}
   playerSprite: {fileID: 1286949349}
   Confetti: {fileID: 1933543378}
@@ -1645,6 +1671,7 @@ MonoBehaviour:
   Outfits: {fileID: 11400000, guid: 7f59e162053607c4f901ad36be50f72b, type: 2}
   outfitbox: {fileID: 959241005}
   outfitsprite: {fileID: 959241007}
+  dialoguebox: {fileID: 1589710007}
 --- !u!1 &927518088
 GameObject:
   m_ObjectHideFlags: 0
@@ -1836,6 +1863,7 @@ MonoBehaviour:
   Outfits: {fileID: 11400000, guid: c2824e1ddd0212649a793457cb48fa0b, type: 2}
   outfitbox: {fileID: 1247951420}
   outfitsprite: {fileID: 1247951422}
+  dialoguebox: {fileID: 1589710007}
 --- !u!114 &949648459
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1984,6 +2012,7 @@ MonoBehaviour:
   Outfits: {fileID: 11400000, guid: e4bb88c6efdfa1147a1b43feba3aa005, type: 2}
   outfitbox: {fileID: 316185915}
   outfitsprite: {fileID: 316185917}
+  dialoguebox: {fileID: 1589710007}
 --- !u!114 &956392471
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2241,6 +2270,7 @@ MonoBehaviour:
   Outfits: {fileID: 11400000, guid: 1315a3c54ed70ba4294bf0748675a034, type: 2}
   outfitbox: {fileID: 1306450747}
   outfitsprite: {fileID: 1306450749}
+  dialoguebox: {fileID: 1589710007}
 --- !u!114 &1157014091
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2828,6 +2858,7 @@ RectTransform:
   - {fileID: 1289804850}
   - {fileID: 1286949350}
   - {fileID: 1835242275}
+  - {fileID: 1589710008}
   m_Father: {fileID: 538165968}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -2889,6 +2920,7 @@ MonoBehaviour:
   Outfits: {fileID: 11400000, guid: 566e36dc9c9c03442bae0a1eb2b2ec5b, type: 2}
   outfitbox: {fileID: 1306450747}
   outfitsprite: {fileID: 1306450749}
+  dialoguebox: {fileID: 1589710007}
 --- !u!114 &1367604249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3055,6 +3087,94 @@ Transform:
   - {fileID: 959241006}
   m_Father: {fileID: 1286949350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1589710007
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1589710008}
+  - component: {fileID: 1589710010}
+  - component: {fileID: 1589710009}
+  - component: {fileID: 1589710011}
+  m_Layer: 5
+  m_Name: Dialogue box
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1589710008
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589710007}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 3.2132, y: 2.666956, z: 3.2132}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1323816877}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -202.3, y: 389}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1589710009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589710007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -4982770129615428163, guid: a534a1aeb239a134295ab86be2a0a356, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1589710010
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589710007}
+  m_CullTransparentMesh: 1
+--- !u!114 &1589710011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589710007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5475591c330251a45ad5d63f51ce6272, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1 &1708372079
 GameObject:
   m_ObjectHideFlags: 0
@@ -3331,6 +3451,7 @@ MonoBehaviour:
   Outfits: {fileID: 11400000, guid: bcf35da4b4cde1f4ca58613be91498e4, type: 2}
   outfitbox: {fileID: 1247951420}
   outfitsprite: {fileID: 1247951422}
+  dialoguebox: {fileID: 1589710007}
 --- !u!114 &1774991192
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4381,6 +4502,7 @@ MonoBehaviour:
   Outfits: {fileID: 11400000, guid: 26c0623d95d50ee47af1635ffe3420d0, type: 2}
   outfitbox: {fileID: 316185915}
   outfitsprite: {fileID: 316185917}
+  dialoguebox: {fileID: 1589710007}
 --- !u!114 &2145694876
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -6,8 +6,8 @@ using static UnityEditor.Progress;
 public class Outfitselect : MonoBehaviour
 {
     public Outfits Outfits; //setting what outfit the button coresponds too 
-    
 
+    
     public GameObject outfitbox; //the image box the outfit is set too
     public Image outfitsprite;
     public GameObject dialoguebox;
@@ -36,5 +36,6 @@ public class Outfitselect : MonoBehaviour
     public void Reaction()
     {
         dialoguebox.SetActive(true);
+       
     }
 }

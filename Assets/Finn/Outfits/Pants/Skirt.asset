@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Skirt
   outfit: {fileID: 7934773341868816568, guid: 97fe5388eb12472418001ee5389bf5c1, type: 3}
-  outfitRating: 4
+  outfitRating: 3
   outfitType: 1
+  dialogue: {fileID: 0}
