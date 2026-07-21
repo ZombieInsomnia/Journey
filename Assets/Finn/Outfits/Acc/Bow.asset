@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Bow
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Bow
-  outfit: {fileID: -170154033033945108, guid: 90c7526d084105b47bf2d10598ec96f1, type: 3}
+  outfit: {fileID: 4603718975512291411, guid: c85420b107342294abaed37bb36aadb0, type: 3}
   outfitRating: 0
   outfitType: 3
