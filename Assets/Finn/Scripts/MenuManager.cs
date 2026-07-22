@@ -28,6 +28,9 @@ public class MenuManager : MonoBehaviour
     public GameObject playerSprite;
     public GameObject Confetti;
 
+    // Reference to the scoringg system - MJ
+    public OutfitScoreManager scoreManager;
+
     bool isDone = false;
     public int menuNumber;
 
@@ -66,6 +69,8 @@ public class MenuManager : MonoBehaviour
     public void DoneButton()
     {
         Debug.Log("yippee");
+        //Calculates and checks the final outfit result - MJ
+        scoreManager.CheckResult();
         isDone = true;
         UpdateVisuals();
     }

@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.UI;
-using static UnityEditor.Progress;
 
 
 public class Outfitselect : MonoBehaviour
@@ -22,6 +21,8 @@ public class Outfitselect : MonoBehaviour
     {
         
     }
+    // Reference to the scoring system - MJ
+    public OutfitScoreManager scoreManager;
 
     public void outfitSelect()
     {
@@ -29,6 +30,8 @@ public class Outfitselect : MonoBehaviour
         Debug.Log("you've picked " + Outfits.outfitName);
         
         outfitsprite.sprite = Outfits.outfit;
+        // Sends the selected outfit to the score manager - MJ
+        scoreManager.SelectOutfit(Outfits);
         outfitbox.SetActive(true);
         Reaction();
     }
