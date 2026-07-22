@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -10,6 +11,7 @@ public class Outfitselect : MonoBehaviour
     public GameObject outfitbox; //the image box the outfit is set too
     public Image outfitsprite;
     public GameObject dialoguebox;
+    public TextMeshProUGUI dialoguetext;
     void Start()
     {
         
@@ -39,6 +41,7 @@ public class Outfitselect : MonoBehaviour
     public void Reaction()
     {
         dialoguebox.SetActive(true);
-       
+        dialoguetext.text = Outfits.outfitRating.reactionText;
+        
     }
 }
