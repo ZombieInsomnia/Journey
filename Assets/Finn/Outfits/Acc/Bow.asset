@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Bow
   outfit: {fileID: 4603718975512291411, guid: c85420b107342294abaed37bb36aadb0, type: 3}
-  outfitRating: 0
+  outfitRating: 2
   outfitType: 3
+  outfitReaction: {fileID: 11400000, guid: 06c2376a8a5e97348b5cf5f32cc22cef, type: 2}

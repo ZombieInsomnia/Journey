@@ -1,6 +1,7 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using static UnityEditor.Rendering.CameraUI;
 
 
 public class Outfitselect : MonoBehaviour
@@ -44,4 +45,6 @@ public class Outfitselect : MonoBehaviour
         dialoguetext.text = Outfits.outfitReaction.reactionText;
         
     }
+
+    
 }

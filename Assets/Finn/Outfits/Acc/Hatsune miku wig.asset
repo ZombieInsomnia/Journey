@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: Pink shoes
+  m_Name: Hatsune miku wig
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: Pink shoes
-  outfit: {fileID: 6762194240875003388, guid: 6ebec693deb162748934352c380cd7dd, type: 3}
-  outfitRating: 2
-  outfitType: 2
-  outfitReaction: {fileID: 11400000, guid: a369c662852e0a74d92ce849b21aec8a, type: 2}
+  outfitName: Hatsune miku wig
+  outfit: {fileID: -1964602508461271273, guid: 812c29a74791cc7489c09d16d509803a, type: 3}
+  outfitRating: 0
+  outfitType: 3
+  outfitReaction: {fileID: 11400000, guid: 790fc1207042a22498d27eb51f779cf9, type: 2}

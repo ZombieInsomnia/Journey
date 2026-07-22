@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: Pink shoes
+  m_Name: Boxers
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: Pink shoes
-  outfit: {fileID: 6762194240875003388, guid: 6ebec693deb162748934352c380cd7dd, type: 3}
-  outfitRating: 2
-  outfitType: 2
-  outfitReaction: {fileID: 11400000, guid: a369c662852e0a74d92ce849b21aec8a, type: 2}
+  outfitName: Boxers
+  outfit: {fileID: -4390294326324161346, guid: ac490e484e6aa104d98114d6b551bd76, type: 3}
+  outfitRating: 0
+  outfitType: 1
+  outfitReaction: {fileID: 11400000, guid: 3f5f72168e297fb4b899d8b68fd338f8, type: 2}

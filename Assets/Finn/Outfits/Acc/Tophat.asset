@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Tophat
   outfit: {fileID: -7514720499688197455, guid: 25bcc8db8bc71884196240172bad6cf6, type: 3}
-  outfitRating: 0
+  outfitRating: 1
   outfitType: 3
+  outfitReaction: {fileID: 11400000, guid: aa4eb590133fc004597dab0246b81346, type: 2}

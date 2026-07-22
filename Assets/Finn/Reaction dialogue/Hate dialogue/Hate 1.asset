@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dbc9b3752f93ece47a9b5d96025e942a, type: 3}
-  m_Name: Love
+  m_Name: Hate 1
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue
-  reactionText: yippee
+  reactionText: are you sure?
