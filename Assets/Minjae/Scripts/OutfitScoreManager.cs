@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class OutfitScoreManager : MonoBehaviour
 {
+    public enum OutfitResult
+    {
+        Incomplete, Fail, Meh, Win
+    }
 
     private Outfits selectedShirt;
     private Outfits selectedPants;
@@ -67,21 +71,25 @@ public class OutfitScoreManager : MonoBehaviour
         return finalScore;
     }
 
-    public void CheckResult()
+    public OutfitResult CheckResult()
     {
         int finalScore = CalculateFinalScore();
 
+        if (finalScore == -1)
+        {
+            return OutfitResult.Incomplete;
+        }
+
         if (finalScore <= 60)
         {
-            Debug.Log("Fail");
+            return OutfitResult.Fail;
         }
         else if (finalScore >= 120)
         {
-            Debug.Log("Win");
+            return OutfitResult.Win;
         }
-        else
-        {
-            Debug.Log("Meh");
+        else{
+            return OutfitResult.Meh;
         }
     }
 }

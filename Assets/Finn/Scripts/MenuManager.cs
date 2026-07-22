@@ -1,6 +1,6 @@
-using Unity.VectorGraphics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class MenuManager : MonoBehaviour
 {
@@ -31,6 +31,12 @@ public class MenuManager : MonoBehaviour
     // Reference to the scoringg system - MJ
     public OutfitScoreManager scoreManager;
 
+    // Base Character image only - MJ
+    public Image characterImage;
+    public Sprite failExpression;
+    public Sprite mehExpression;
+    public Sprite winExpression;
+
     bool isDone = false;
     public int menuNumber;
 
@@ -59,7 +65,7 @@ public class MenuManager : MonoBehaviour
     }
     public void PreviousMenu()
     {
-        if (menuNumber >= 0) 
+        if (menuNumber > 0) 
         {
             menuNumber -= 1;
             UpdateVisuals();
@@ -70,9 +76,18 @@ public class MenuManager : MonoBehaviour
     {
         Debug.Log("yippee");
         //Calculates and checks the final outfit result - MJ
-        scoreManager.CheckResult();
+        OutfitScoreManager.OutfitResult result = scoreManager.CheckResult();
+
+        if (result == OutfitScoreManager.OutfitResult.Incomplete)
+        {
+            Debug.LogWarning("Please select all outfit pieces.");
+            return;
+        }
         isDone = true;
         UpdateVisuals();
+
+        // Changes the expression due to result - MJ
+        ChangeExpression(result);
     }
 
     void UpdateVisuals()
@@ -141,7 +156,7 @@ public class MenuManager : MonoBehaviour
         playerSprite.transform.localPosition = Vector3.zero;
         mainMenuButton.SetActive(true);
         tryAgainButton.SetActive(true);
-        Confetti.SetActive(true);
+        // Deleted the confetti setactive for it to only show when win condition - MJ
         dialogueBox.SetActive(false);
     }
 
@@ -153,5 +168,27 @@ public class MenuManager : MonoBehaviour
     public void MainMenu()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+
+    // Change Expression depending on the result - MJ
+    private void ChangeExpression(OutfitScoreManager.OutfitResult result)
+    {
+        Confetti.SetActive(false);
+
+        switch (result)
+        {
+            case OutfitScoreManager.OutfitResult.Fail:
+            characterImage.sprite = failExpression;
+            break;
+
+            case OutfitScoreManager.OutfitResult.Meh:
+            characterImage.sprite = mehExpression;
+            break;
+
+            case OutfitScoreManager.OutfitResult.Win:
+            characterImage.sprite = winExpression;
+            Confetti.SetActive(true);
+            break;
+        }
     }
 }
