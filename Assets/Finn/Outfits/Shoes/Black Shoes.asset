@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Black shoes
   outfit: {fileID: -8461923687830504554, guid: d512e9951096421408480009568902fa, type: 3}
-  outfitRating: 4
+  outfitRating: 0
   outfitType: 2
+  dialogue: {fileID: 0}

@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Pink shoes
   outfit: {fileID: 6762194240875003388, guid: 6ebec693deb162748934352c380cd7dd, type: 3}
-  outfitRating: 0
+  outfitRating: 2
   outfitType: 2
+  dialogue: {fileID: 0}
