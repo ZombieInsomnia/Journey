@@ -1145,6 +1145,10 @@ MonoBehaviour:
   playerSprite: {fileID: 1286949349}
   Confetti: {fileID: 1933543378}
   scoreManager: {fileID: 1402880280}
+  characterImage: {fileID: 1286949351}
+  failExpression: {fileID: -1712424587065458095, guid: 4b2f5e8e5007ce847b48fbb17c05dd88, type: 3}
+  mehExpression: {fileID: 6768139323804525417, guid: 96c23c8f9abb53b4f98dead27b79191f, type: 3}
+  winExpression: {fileID: 1734684283059936169, guid: 225529d16d3abf74b9e96dbf36cb75e3, type: 3}
   menuNumber: 0
 --- !u!4 &538165968
 Transform:
