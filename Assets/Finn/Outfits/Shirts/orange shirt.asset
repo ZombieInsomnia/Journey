@@ -16,4 +16,4 @@ MonoBehaviour:
   outfit: {fileID: 3546543555547445688, guid: d4d5936a9afd7b24f8df4f7f92203acb, type: 3}
   outfitRating: 0
   outfitType: 0
-  dialogue: {fileID: 11400000, guid: 88ea1a6953b8a7543a9f5071cae22ecf, type: 2}
+  outfitReaction: {fileID: 0}

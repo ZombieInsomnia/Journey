@@ -41,7 +41,7 @@ public class Outfitselect : MonoBehaviour
     public void Reaction()
     {
         dialoguebox.SetActive(true);
-        dialoguetext.text = Outfits.outfitRating.reactionText;
+        dialoguetext.text = Outfits.outfitReaction.reactionText;
         
     }
 }

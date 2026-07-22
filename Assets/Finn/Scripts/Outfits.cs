@@ -9,11 +9,12 @@ public class Outfits : ScriptableObject
     public Sprite outfit; //assigns the image of the outfit for another code to be able to call and set
    
     public enum OutfitType { Shirt, Pants, Shoes, Acc }
+    public enum OutfitRating { Love, Neutral, Hate, Secret}
 
     //character can have different dialgoue depending on the enum assigned, helps if we want to have multiple characters with different reactions
-    
+    public OutfitRating outfitRating;
     public OutfitType outfitType;
-    public Dialogue outfitRating;
+    public Dialogue outfitReaction;
     
     
 
