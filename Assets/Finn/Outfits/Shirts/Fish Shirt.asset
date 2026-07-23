@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: Pant one
+  m_Name: Fish Shirt
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: Pant
-  outfit: {fileID: -5693902186511285166, guid: 8713ea1e26a8d12478dcd5d64f8cc7ad, type: 3}
-  outfitRating: 1
-  outfitType: 1
-  outfitReaction: {fileID: 11400000, guid: 7663f5f109aafe84a8294af7b557bf95, type: 2}
+  outfitName: Fish Shirt
+  outfit: {fileID: -2530768103833504371, guid: ee39e443fcf8aa04db17ee7f94f2514b, type: 3}
+  outfitRating: 0
+  outfitType: 0
+  outfitReaction: {fileID: 11400000, guid: eac854d9161569f45b50d37f5fbf200a, type: 2}

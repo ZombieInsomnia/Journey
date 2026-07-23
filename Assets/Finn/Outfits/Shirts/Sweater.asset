@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: Skirt
+  m_Name: Sweater
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: Skirt
-  outfit: {fileID: 7934773341868816568, guid: 97fe5388eb12472418001ee5389bf5c1, type: 3}
-  outfitRating: 2
-  outfitType: 1
-  outfitReaction: {fileID: 11400000, guid: 9d291101c27ac484bb195daa8454cda9, type: 2}
+  outfitName: Sweater
+  outfit: {fileID: 9171124879905365256, guid: c7c9d443bbb04704ea6448df22e00e46, type: 3}
+  outfitRating: 1
+  outfitType: 0
+  outfitReaction: {fileID: 11400000, guid: 436e5ceffe225784394892b9f2ef3dc0, type: 2}

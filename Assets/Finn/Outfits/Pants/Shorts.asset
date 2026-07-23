@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: Hatsune miku wig
+  m_Name: Shorts
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: Hatsune miku wig
-  outfit: {fileID: -1964602508461271273, guid: 812c29a74791cc7489c09d16d509803a, type: 3}
-  outfitRating: 0
-  outfitType: 3
-  outfitReaction: {fileID: 11400000, guid: 790fc1207042a22498d27eb51f779cf9, type: 2}
+  outfitName: Shorts
+  outfit: {fileID: 392093564074504549, guid: 8d73404d1e4cdfb4db7a7f5272e15523, type: 3}
+  outfitRating: 2
+  outfitType: 1
+  outfitReaction: {fileID: 11400000, guid: 9d291101c27ac484bb195daa8454cda9, type: 2}

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8713ea1e26a8d12478dcd5d64f8cc7ad
+guid: f991cce0f86d1144983c7a46a001efcf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5693902186511285166
-    second: jeans_0
+      213: -1559539501400410192
+    second: skinnyjeans_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: jeans_0
+      name: skinnyjeans_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 254cc2301223bf0b0800000000000000
-      internalID: -5693902186511285166
+      spriteID: 0b7b6d516176b5ae0800000000000000
+      internalID: -1559539501400410192
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b9ff5c4ac6ca5724a93659ee2ca7fa0a
+    spriteID: 40fd59e6c44b0ae48b4b136cbd25b535
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      jeans_0: -5693902186511285166
+      skinnyjeans_0: -1559539501400410192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

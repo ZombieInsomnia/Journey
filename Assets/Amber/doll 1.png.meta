@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8713ea1e26a8d12478dcd5d64f8cc7ad
+guid: d73418bf7ff951140aa760646013b1d9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5693902186511285166
-    second: jeans_0
+      213: -3637639173144747568
+    second: doll 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: jeans_0
+      name: doll 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 388
-        height: 489
+        width: 607
+        height: 983
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 254cc2301223bf0b0800000000000000
-      internalID: -5693902186511285166
+      spriteID: 0d169afe172848dc0800000000000000
+      internalID: -3637639173144747568
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b9ff5c4ac6ca5724a93659ee2ca7fa0a
+    spriteID: 8ba2ff3ca7fca4d4baaf4bc9fb1bf125
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      jeans_0: -5693902186511285166
+      doll 1_0: -3637639173144747568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

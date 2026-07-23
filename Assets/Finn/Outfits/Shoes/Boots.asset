@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: Slippers
+  m_Name: Boots
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: Slippers
-  outfit: {fileID: -4950099673442919058, guid: 6b2c242b0f11b11478fd6dd664de2e1c, type: 3}
+  outfitName: Boots
+  outfit: {fileID: -8630435554779211992, guid: 01b91c9d7036da045896a69f163b61bf, type: 3}
   outfitRating: 0
   outfitType: 2
   outfitReaction: {fileID: 11400000, guid: 9a738eb55b70d674caecc3e4da6ea81e, type: 2}

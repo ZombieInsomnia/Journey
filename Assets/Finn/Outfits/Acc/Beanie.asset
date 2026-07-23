@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: Tophat
+  m_Name: Beanie
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: Tophat
-  outfit: {fileID: -7514720499688197455, guid: 25bcc8db8bc71884196240172bad6cf6, type: 3}
+  outfitName: Beanie
+  outfit: {fileID: 4603718975512291411, guid: c85420b107342294abaed37bb36aadb0, type: 3}
   outfitRating: 1
   outfitType: 3
   outfitReaction: {fileID: 11400000, guid: aa4eb590133fc004597dab0246b81346, type: 2}

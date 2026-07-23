@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: Boxers
+  m_Name: Emo
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: Boxers
-  outfit: {fileID: -4390294326324161346, guid: ac490e484e6aa104d98114d6b551bd76, type: 3}
+  outfitName: Emo
+  outfit: {fileID: -36753530946763253, guid: dca953291d819f34199c2e930882efd2, type: 3}
   outfitRating: 0
-  outfitType: 1
-  outfitReaction: {fileID: 11400000, guid: 3f5f72168e297fb4b899d8b68fd338f8, type: 2}
+  outfitType: 3
+  outfitReaction: {fileID: 11400000, guid: 790fc1207042a22498d27eb51f779cf9, type: 2}

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb3d4b071f9afcc41a9e87aa4aeaae4a, type: 3}
-  m_Name: orange shirt
+  m_Name: Flower Crown
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
-  outfitName: orange shirt
-  outfit: {fileID: 3546543555547445688, guid: d4d5936a9afd7b24f8df4f7f92203acb, type: 3}
+  outfitName: Flower Crown
+  outfit: {fileID: -194818066077126744, guid: f374d9e4fc4206c4ab94ef27b044855f, type: 3}
   outfitRating: 2
-  outfitType: 0
-  outfitReaction: {fileID: 11400000, guid: ecd234a75d6c12f4fb9c9d0662747882, type: 2}
+  outfitType: 3
+  outfitReaction: {fileID: 11400000, guid: 06c2376a8a5e97348b5cf5f32cc22cef, type: 2}
