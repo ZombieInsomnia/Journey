@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Emo
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Emo
-  outfit: {fileID: -36753530946763253, guid: dca953291d819f34199c2e930882efd2, type: 3}
+  outfit: {fileID: 1300340372112007946, guid: 030573817bc98bb44a41b7758a274b46, type: 3}
   outfitRating: 0
   outfitType: 3
   outfitReaction: {fileID: 11400000, guid: 790fc1207042a22498d27eb51f779cf9, type: 2}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Tank top
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Tank top
-  outfit: {fileID: -4449790079533628955, guid: 05456b85dec875f45b0866d78e135611, type: 3}
+  outfit: {fileID: 5919475254201549820, guid: eb8b7c218a278e348818b104ba998ec5, type: 3}
   outfitRating: 2
   outfitType: 0
   outfitReaction: {fileID: 11400000, guid: ecd234a75d6c12f4fb9c9d0662747882, type: 2}

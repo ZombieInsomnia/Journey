@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Flower Crown
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Flower Crown
-  outfit: {fileID: -194818066077126744, guid: f374d9e4fc4206c4ab94ef27b044855f, type: 3}
+  outfit: {fileID: 3491849298007467506, guid: 6bf9d64ad7047dc488d6a277e6ddf344, type: 3}
   outfitRating: 2
   outfitType: 3
   outfitReaction: {fileID: 11400000, guid: 06c2376a8a5e97348b5cf5f32cc22cef, type: 2}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Fish Shirt
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Fish Shirt
-  outfit: {fileID: -2530768103833504371, guid: ee39e443fcf8aa04db17ee7f94f2514b, type: 3}
+  outfit: {fileID: -1183452140245690626, guid: 02a9b36f18cc0464cac532ebf0b3e144, type: 3}
   outfitRating: 0
   outfitType: 0
   outfitReaction: {fileID: 11400000, guid: eac854d9161569f45b50d37f5fbf200a, type: 2}

@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 96c23c8f9abb53b4f98dead27b79191f
+guid: c16647b14ed617f46b767c733e119223
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6768139323804525417
-    second: doll_0
+      213: -1980685812019715005
+    second: sneakersf_0
+  - first:
+      213: -8550460207392874196
+    second: sneakersf_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: doll_0
+      name: sneakersf_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 607
-        height: 983
+        width: 300
+        height: 168
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 963a8b91bd24ded50800000000000000
-      internalID: 6768139323804525417
+      spriteID: 344a8e28fb03384e0800000000000000
+      internalID: -1980685812019715005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sneakersf_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c212c306eb9a65980800000000000000
+      internalID: -8550460207392874196
       vertices: []
       indices: 
       edges: []
@@ -125,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 0b0a4fdee67f6104f9fec066e9d312af
+    spriteID: 83c77d969a965af4d92f0f557861b4f6
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      doll_0: 6768139323804525417
+      sneakersf_0: -1980685812019715005
+      sneakersf_1: -8550460207392874196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Boots
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Boots
-  outfit: {fileID: -8630435554779211992, guid: 01b91c9d7036da045896a69f163b61bf, type: 3}
-  outfitRating: 0
+  outfit: {fileID: 4426038068224005722, guid: a259e965facf60a498950b54f81ed067, type: 3}
+  outfitRating: 1
   outfitType: 2
-  outfitReaction: {fileID: 11400000, guid: 9a738eb55b70d674caecc3e4da6ea81e, type: 2}
+  outfitReaction: {fileID: 11400000, guid: f5f984d334c7b6f418474990736a4d5e, type: 2}

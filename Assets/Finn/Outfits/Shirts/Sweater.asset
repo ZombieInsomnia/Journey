@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Sweater
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Sweater
-  outfit: {fileID: 9171124879905365256, guid: c7c9d443bbb04704ea6448df22e00e46, type: 3}
+  outfit: {fileID: 6179740671592107092, guid: 7362c32ed90c5b749b34d9532c0d0972, type: 3}
   outfitRating: 1
   outfitType: 0
   outfitReaction: {fileID: 11400000, guid: 436e5ceffe225784394892b9f2ef3dc0, type: 2}

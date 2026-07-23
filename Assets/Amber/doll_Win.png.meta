@@ -103,12 +103,12 @@ TextureImporter:
       name: doll_Win_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 12
-        width: 594
-        height: 960
+        x: 0
+        y: 0
+        width: 607
+        height: 983
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fe9d92f8b3a69d945ba25a32933fe42c
     internalID: 0
     vertices: []
     indices: 

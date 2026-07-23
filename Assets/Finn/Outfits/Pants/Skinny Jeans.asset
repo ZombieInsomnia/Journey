@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Skinny Jeans
   m_EditorClassIdentifier: Assembly-CSharp::Outfits
   outfitName: Skinny Jeans
-  outfit: {fileID: -1559539501400410192, guid: f991cce0f86d1144983c7a46a001efcf, type: 3}
+  outfit: {fileID: -8937892060915080152, guid: f12ac41bdf69d32489d5a5763f5c6136, type: 3}
   outfitRating: 1
   outfitType: 1
   outfitReaction: {fileID: 11400000, guid: 7663f5f109aafe84a8294af7b557bf95, type: 2}
